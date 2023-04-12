@@ -1,0 +1,10 @@
+body, .bg-white {
+  background-image: url("https://i.ibb.co/cbrcv4T/unnamed-1.png") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  color: #ffffff;
+}
+
+header img, .brand.animated.bounceIn {
+    margin-top: -12%;
+}
